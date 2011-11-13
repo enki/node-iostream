@@ -1,0 +1,19 @@
+{
+  "author": "Paul Bohm <enki@bbq.io> (http://paulbohm.com/)",
+  "name": "iostream",
+  "description": "Tornado-like Buffered IOStream for Node.JS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/enki/node-iostream/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enki/node-iostream.git"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "main": "iostream",
+  "dependencies": {
+    "deque": ">=0.0.2"
+  },
+  "devDependencies": {}
+}

@@ -2,7 +2,7 @@
   "author": "Paul Bohm <enki@bbq.io> (http://paulbohm.com/)",
   "name": "iostream",
   "description": "Tornado-like Buffered IOStream for Node.JS",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/enki/node-iostream/",
   "repository": {
     "type": "git",
@@ -13,7 +13,8 @@
   },
   "main": "iostream",
   "dependencies": {
-    "deque": ">=0.0.3"
+    "deque": ">=0.0.3",
+    "coffee-script": ""
   },
   "devDependencies": {}
 }
